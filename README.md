@@ -1,1 +1,1 @@
-# IBM-Watson-Task
+# IBM-Watson-Task for SM
